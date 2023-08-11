@@ -1,4 +1,4 @@
-#Understanding Solidity: Exploring require, assert, and revert Statements with the ReqAssRev Contract
+# Understanding Solidity: Exploring require, assert, and revert Statements with the ReqAssRev Contract
 
 ```markdown
 # ReqAssRev Contract
